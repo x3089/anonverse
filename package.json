@@ -1,0 +1,16 @@
+{
+    "name": "anonverse",
+    "version": "1.0.0",
+    "description": "Una plataforma anónima de discusión.",
+    "main": "server/app.js",
+    "scripts": {
+        "start": "node server/app.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "mysql": "^2.18.1"
+    },
+    "author": "Astra",
+    "license": "MIT",
+    "keywords": []
+}
