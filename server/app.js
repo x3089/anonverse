@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Ruta de prueba
 app.get('/', (req, res) => {
-  res.send('¡Bienvenido a AnonymousVerse!');
+  res.send('¡Bienvenido a AnonymousVerse.');
 });
 
 // Aquí agregarás otras rutas más tarde...
